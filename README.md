@@ -1,6 +1,6 @@
-# Projeto Livraria com Java OO
-Código-fonte do projeto de uma livraria com Java OO 
+# Projeto Livraria 
+Código-fonte do projeto de uma livraria com Spring Boot 
 
-## Livro: Desbravando Java e Orientação a Objetos 
-## Autor: Rodrigo Turini
-## Editora: Casa do Código
+## Livro: Spring Boot
+## Autor:Luis Novaes
+## Editora: Home
